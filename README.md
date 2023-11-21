@@ -1,5 +1,5 @@
 # Cat-Photo-Page
-An html project I completed from FreeCodeCamp. 
+My 1st html project I completed in FreeCodeCamp. 
 I do not own the rights.
 I do not need help with this project. 
 I only uploaded to get experience with GitHub 
